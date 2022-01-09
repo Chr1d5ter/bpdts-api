@@ -1,0 +1,20 @@
+{
+  "UpstreamApi": {
+    "baseUrl": "https://bpdts-test-app.herokuapp.com"
+  },
+
+  "Locations": {
+    "London": {
+      "latitude": 51.509865,
+      "longitude": -0.118092
+    }
+  },
+
+  "Logging": {
+    "level": "info"
+  },
+
+  "Service": {
+    "port": 8080
+  }
+}
